@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "stdarg.h": "c",
+        "stdio.h": "c",
+        "atomic": "cpp",
+        "cstdint": "cpp",
+        "string.h": "c",
+        "time.h": "c",
+        "pthread_impl.h": "c"
+    }
+}
